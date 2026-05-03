@@ -1,7 +1,13 @@
 # Software Project
 
-This project is updated by Priyanka.
+This project demonstrates GitHub fork and pull request workflow.
 
 ## Changes Made
-- Added README file
-- Learning GitHub workflow
+- Updated temp.txt file
+- Added README.md
+
+## Author
+Priyanka
+
+## Purpose
+Learning GitHub collaboration process.
